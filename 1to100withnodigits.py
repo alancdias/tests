@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 '''Program that print numbers from 1 to 100,
 but the code have no digits.
 Made for a challenge.'''
