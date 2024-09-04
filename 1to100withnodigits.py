@@ -1,6 +1,6 @@
-'''Program that print numbers from 1 to 100,
+'''Program that prints integer numbers from 1 to 100,
 but the code have no digits.
-Made for a challenge.'''
+Made for a challenge. Writen in Python'''
 from math import pi, e;
 counter = False; #initializes a counter with 0 (False)
 goal = e*pi**pi; #this is almost 100 and will serve as stop point
